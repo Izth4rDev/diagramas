@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Página-1" id="K2lKhx3J3uBkY-5urpTU">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Sh5tUy1A709ZW0W1XOgd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sh5tUy1A709ZW0W1XOgd-1" target="Sh5tUy1A709ZW0W1XOgd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sh5tUy1A709ZW0W1XOgd-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sh5tUy1A709ZW0W1XOgd-2" value="Obtener edad" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="205" y="240" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sh5tUy1A709ZW0W1XOgd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sh5tUy1A709ZW0W1XOgd-4" target="Sh5tUy1A709ZW0W1XOgd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sh5tUy1A709ZW0W1XOgd-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sh5tUy1A709ZW0W1XOgd-4" target="Sh5tUy1A709ZW0W1XOgd-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sh5tUy1A709ZW0W1XOgd-4" value="edad &amp;gt;= 18" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Sh5tUy1A709ZW0W1XOgd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Sh5tUy1A709ZW0W1XOgd-2" target="Sh5tUy1A709ZW0W1XOgd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sh5tUy1A709ZW0W1XOgd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sh5tUy1A709ZW0W1XOgd-6" target="Sh5tUy1A709ZW0W1XOgd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sh5tUy1A709ZW0W1XOgd-6" value="Beber chelita" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="420" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sh5tUy1A709ZW0W1XOgd-8" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="378" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sh5tUy1A709ZW0W1XOgd-9" value="FIN" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="640" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sh5tUy1A709ZW0W1XOgd-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sh5tUy1A709ZW0W1XOgd-16" target="Sh5tUy1A709ZW0W1XOgd-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sh5tUy1A709ZW0W1XOgd-16" value="me voy para la casa" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sh5tUy1A709ZW0W1XOgd-18" value="Fin" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sh5tUy1A709ZW0W1XOgd-20" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="478" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
